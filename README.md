@@ -52,13 +52,13 @@
   * 地平线
 
 1.  计算组成
-    1.CPU
-    2.内存
-    3.Disk
+    1. CPU
+    2. 内存
+    3. Disk
 2.  数据库
     * redis 
     * Mysql
-    3.Oracel
+    3. Oracel
 
 
 
