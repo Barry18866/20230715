@@ -72,6 +72,22 @@
 [百度搜索](https://www.baidu.com "点击进入百度")
 [哔哩哔哩](https://www.bilibili.com "访问b站")
 
+###插入图片 ![图片标题](图片地址 "悬停标题")
+
+![屏幕截图](C://Users//dell//Desktop//xx.png "悬停标题")
+
+
+### 插入代码片段 c、cpp、python、java、bash
+
+```c
+	#include <stdio.h>
+	#include <unistd.h>
+	int main (void)
+	{
+		printf("c testing code ..\n");
+
+	}
+
 
 
 
